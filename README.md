@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muthamikennedy001
 - 👀 I’m interested in App and Backend Development 
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin, React and Node Js
 - 💞️ I’m looking to collaborate on Android App Projects
 - 📫 How to reach me muthamikennedy0@gmail.com
 
