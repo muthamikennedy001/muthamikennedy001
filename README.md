@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://dev.to/reactivekotlinist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="reactivekotlinist" height="30" width="40" /></a>
 <a href="https://twitter.com/reactkotlinist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reactkotlinist" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kennedy muthami kimeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kennedy muthami kimeu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kennedy-kimeu-25a407222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kennedy-kimeu-25a407222" height="30" width="40" /></a>
 <a href="https://medium.com/@muthamikennedy0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muthamikennedy0" height="30" width="40" /></a>
 </p>
 
