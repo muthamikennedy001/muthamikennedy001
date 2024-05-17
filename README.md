@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **web and mobile apps development projects**
 
-- 💬 Ask me about **Kotlin, React, Node Js, Sequilize, Express**
+- 💬 Ask me about **Kotlin, React, Node Js, Sequilize, Express, Laravel**
 
 - 📫 How to reach me **muthamikennedy0@gmail.com**
 
